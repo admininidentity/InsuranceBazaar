@@ -8,6 +8,12 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://aistudio-preprod.corp.google.com/apps/73cba8e0-3b29-4f85-91b4-47d5cbb55d70
 
+## Public Site
+
+**https://admininidentity.github.io/InsuranceBazaar/**
+
+> **Note:** The live site requires a `GEMINI_API_KEY` secret to be set in the repository's GitHub Actions secrets for AI features to work.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
