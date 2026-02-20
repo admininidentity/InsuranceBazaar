@@ -1,0 +1,5 @@
+{
+  "name": "Insurance Bazaar CRM",
+  "description": "A sample CRM consisting of identity data including names, Aadhaar, and PAN numbers for testing and demonstration purposes.",
+  "requestFramePermissions": []
+}
